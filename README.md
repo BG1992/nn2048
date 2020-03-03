@@ -126,4 +126,4 @@ For both approaches, I used samples of 100 games. That's not a huge number (the 
 
 I was using:
 - PyTorch 1.4.0
-- NumPy 1.18.1
+- NumPy 1.18.1 
